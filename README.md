@@ -9,6 +9,7 @@ I'm too lazy to write this out rn so take this
 <a href="https://github.com/KingOKarma">
   <img src="https://img.shields.io/github/followers/KingOKarma?style=social" />
 </a>
+<br>
 
 
 <a href="https://top.gg/bot/614110037291565056" >
