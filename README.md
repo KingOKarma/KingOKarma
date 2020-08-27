@@ -12,6 +12,6 @@ I'm too lazy to write this out rn so take this
 <br>
 
 
-<a href="https://top.gg/bot/614110037291565056" >
+<a href="https://bucketbot.dev" >
   <img src="https://top.gg/api/widget/614110037291565056.svg" alt="KFC Bucket boi" />
 </a>
