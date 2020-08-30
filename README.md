@@ -14,12 +14,12 @@ I'm too lazy to write this out rn so take this
  
 ---  
   
-<a href="https://github.com/mandjevant">
-  <img src="https://github-readme-stats.vercel.app/api?username=mandjevant&show_icons=true&hide_border=true&theme=onedark" />
+<a href="https://github.com/KingOKarma">
+  <img src="https://github-readme-stats.vercel.app/api?username=KingOKarma&show_icons=true&hide_border=true&theme=onedark" />
 </a>
 
-<a href="https://github.com/mandjevant">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandjevant&layout=compact&theme=onedark" />
+<a href="https://github.com/KingOKarma">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingOKarma&layout=compact&theme=onedark" />
 </a>
 
 
