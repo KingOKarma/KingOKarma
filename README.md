@@ -11,6 +11,17 @@ I'm too lazy to write this out rn so take this
 </a>
 <br>
 
+ 
+---  
+  
+<a href="https://github.com/mandjevant">
+  <img src="https://github-readme-stats.vercel.app/api?username=mandjevant&show_icons=true&hide_border=true&theme=onedark" />
+</a>
+
+<a href="https://github.com/mandjevant">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandjevant&layout=compact&theme=onedark" />
+</a>
+
 
 <a href="https://bucketbot.dev" >
   <img src="https://top.gg/api/widget/614110037291565056.svg" alt="KFC Bucket boi" />
