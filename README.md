@@ -11,6 +11,10 @@ I'm too lazy to write this out rn so take this
 </a>
 <br>
 
+<a href="https://bucketbot.dev" >
+  <img src="https://top.gg/api/widget/614110037291565056.svg" alt="KFC Bucket boi" />
+</a>
+
  
 ---  
   
@@ -23,6 +27,3 @@ I'm too lazy to write this out rn so take this
 </a>
 
 
-<a href="https://bucketbot.dev" >
-  <img src="https://top.gg/api/widget/614110037291565056.svg" alt="KFC Bucket boi" />
-</a>
